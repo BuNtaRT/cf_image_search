@@ -44,6 +44,15 @@ npm run build
 npm start
 ```
 
+### Docker
+
+#### Quick Start
+```bash
+# Navigate to docker folder
+docker compose up -d
+# Note: The .env file is used for configuration
+```
+
 ## API Endpoints
 
 ### Search Images
